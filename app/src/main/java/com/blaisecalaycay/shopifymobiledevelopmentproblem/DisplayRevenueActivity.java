@@ -51,7 +51,6 @@ public class DisplayRevenueActivity extends AppCompatActivity {
             @Override
             public void onFailure(Call call, IOException e) {
                 Log.i(TAG, e.getMessage());
-                Log.i(TAG, "FAILLLL\n\n\n");
             }
 
             @Override
@@ -91,8 +90,6 @@ public class DisplayRevenueActivity extends AppCompatActivity {
                             updateDisplay(revenue, totalSold);
                         }
                     });
-//                    Log.i(TAG, "Revenue: " + Double.toString(revenue));
-//                    Log.i(TAG, "Total sold: " + Integer.toString(totalSold));
 
                 } catch (JSONException e) {
                     e.printStackTrace();
@@ -100,8 +97,6 @@ public class DisplayRevenueActivity extends AppCompatActivity {
             }
 
         });
-
-
 
     }
 
