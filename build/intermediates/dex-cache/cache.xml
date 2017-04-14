@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/blaise/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/blaise/AndroidStudioProjects/ShopifyMobileDevelopmentProblem/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_078e9554b27c3bd003d18a8fbf023add1965e6f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blaise/.android/build-cache/c7beae2a41f59c7e09d19fbe3b552947a24569e5/output/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/blaise/AndroidStudioProjects/ShopifyMobileDevelopmentProblem/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_aa1c0a904becc2e69eab85bc6533beb66d178835/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blaise/.android/build-cache/0bd3a7903d7d5388e0eab54fbbde6a6615d33f53/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/blaise/AndroidStudioProjects/ShopifyMobileDevelopmentProblem/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b6a1b47a8da203c82aae2ae2f194808881a139d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blaise/.android/build-cache/11c817c8a3588faa5bec76230b38b36d8a03535a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/blaise/AndroidStudioProjects/ShopifyMobileDevelopmentProblem/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4bf78a56110699247e6639ba4e0799c89dfb1fdf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blaise/AndroidStudioProjects/ShopifyMobileDevelopmentProblem/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="06d4b65d7e32ba35c20434facda329be39d634b0">
+        <dex dex="/Users/blaise/AndroidStudioProjects/ShopifyMobileDevelopmentProblem/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_547896fa76469913ef42c537881e388ac7ffab12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blaise/AndroidStudioProjects/ShopifyMobileDevelopmentProblem/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/blaise/AndroidStudioProjects/ShopifyMobileDevelopmentProblem/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d474beadea9eec92bd9947f9c9363521afe8c777/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blaise/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/blaise/AndroidStudioProjects/ShopifyMobileDevelopmentProblem/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_37644683aaef893e8f048cd91fae4224b7bf0ad1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blaise/.android/build-cache/c7beae2a41f59c7e09d19fbe3b552947a24569e5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/blaise/AndroidStudioProjects/ShopifyMobileDevelopmentProblem/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_74aca4fc38e0fedd5a44cceb4132b24fe1eaec1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blaise/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/blaise/AndroidStudioProjects/ShopifyMobileDevelopmentProblem/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.6.0_92f3b3c3413107d6def3fad4734918d3930e820b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blaise/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/blaise/AndroidStudioProjects/ShopifyMobileDevelopmentProblem/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.11.0_31b56e10ef41e7c7b0806fc230a901d769d4f7d3/classes.dex" />
+    </item>
+
+</items>
